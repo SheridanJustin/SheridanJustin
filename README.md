@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🙋‍♂️ About Me:
 Graduate of Sheridan College with an Advanced Diploma in Software Development & Network Engineering. Passionate about building practical software, staying active in the gym, and enjoying games that challenge strategy and teamwork.
 
 
