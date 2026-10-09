@@ -28,7 +28,7 @@ New graduate of Sheridan College with an Advanced Diploma in Software Developmen
 practical software, staying active in the gym, and playing games that challenge strategy and teamwork. Most of my side
 projects sit where those meet: tools I want to use myself.
 
-📄 **Resume, projects and contact:** [justinkadyrov.com](https://justinkadyrov.com/)
+
 
 ---
 
@@ -62,7 +62,3 @@ workout templates, set logging, progress tracking and AI gym-machine identificat
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-
-<p align="center">
-  <a href="https://justinkadyrov.com/">justinkadyrov.com</a>
-</p>
